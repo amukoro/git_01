@@ -24,3 +24,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+Do not stand at my grave and weep  
+I am not there; I do not sleep.  
+I am a thousand winds that blow,  
+I am the diamond glints on snow,  
+I am the sun on ripened grain,  
+I am the gentle autumn rain.  
+When you awaken in the morning's hush  
+I am the swift uplifting rush  
